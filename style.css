@@ -1,0 +1,45 @@
+/* estilos barra de navegacion */
+
+.nav-color{
+    background-color: white;
+    box-shadow: 1px 1px 5px 1px #ccc  ;
+}
+
+.color_dropdown{
+    background-color: #4CAF4F;
+    border-radius: 5px;
+}
+
+.color_dropdown:hover{
+    background-color: #71d475;
+    border-radius: 5px;
+}
+
+
+
+/* estilo section inicio */
+
+.section-inicio{
+    background-color: #F5F7FA;
+    width: 100%;
+    height: 400px;
+}
+
+.servicios-inicio{
+    color: #71d475;
+}
+.btn-inicio{
+    width: 5rem;
+    height: 1rem;
+    padding: 10px;
+    background-color: #71d475;
+    border: .5px solid #4CAF4F;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.btn-inicio:hover{
+    background-color: #10ee17;
+}
